@@ -13,13 +13,13 @@
 <img align="right" alt="GIF" height="350px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 <pre>
 
-- 👂 My name is: **Christian**;
+- 👂 `My name is`: **Christian**;
 - 👩 `Pronouns`: **He/Him**;
-- ⚡ I'm: **21 years old**; 
-- 🌱 I'm currently learning: **Node.js**;
-- ❤️ I love: **Videogames**;
-- 💻 Favorite lang: **HTML, CSS & JavaScript**;
-- 📚 Languages: **Spanish, English & Portuguese**.
+- ⚡ `I'm`: **21 years old**; 
+- 🌱 `I'm currently learning`: **Node.js**;
+- ❤️ `I love`: **Videogames**;
+- 💻 `Favorite(s) lang`: **HTML, CSS & JavaScript**;
+- 📚 `Language(s)`: **Spanish, English & Portuguese**.
 </pre>
 <!-- Fin de Sobre mi -->
 
