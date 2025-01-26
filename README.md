@@ -28,7 +28,7 @@
 <!-- Lenguajes -->
 <h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
 <p align="center">
-<img width="450px"  src="https://skillicons.dev/icons?i=py,java,cpp,js,html,css,git,vscode,mysql,windows&perline=10"  />
+<img width="450px"  src="https://skillicons.dev/icons?i=cpp,java,py,html,css,js,mysql,windows,vscode,git&perline=10"  />
 </p>
 <!-- Fin de Lenguajes -->
 
