@@ -24,7 +24,6 @@
 <!-- Fin de Sobre mi -->
 
 <br/>
-<br/>
 
 <!-- Lenguajes -->
 <h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
