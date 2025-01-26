@@ -8,11 +8,9 @@
 <hr>
 </hr>
 
-<br/>
-
 <!-- Sobre mi -->
 <h3><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;I'm a Software Engineering Student</h3>
-<img align="right" alt="GIF" height="300px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+<img align="right" alt="GIF" height="350px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 <pre>
 
 - 👂 My name is: **Christian**;
