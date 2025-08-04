@@ -44,7 +44,7 @@
   <a href="mailto:christianriivera31@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" alt=christianriivera31@gmail.com mail style="margin-bottom: 5px;" />
   </a>
-  <a href="https://www.linkedin.com/in/christian-rivera/" target="_blank">
+  <a href="https://www.linkedin.com/in/christian-rivera-33ab13346/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt=linkedin style="margin-bottom: 5px;" />
   </a>
 </p>
